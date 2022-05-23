@@ -1,0 +1,5 @@
+2022-05-02,08:50:01,264MB,gnome-shell
+2022-05-02,08:50:01,57MB,gnome-terminal-
+2022-05-02,08:50:01,51MB,gjs
+2022-05-02,08:50:01,40MB,evolution-alarm
+2022-05-02,08:50:01,34MB,gsd-xsettings

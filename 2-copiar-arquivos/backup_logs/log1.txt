@@ -1,0 +1,6 @@
+total 12K
+drwxrwxr-x 2 pedro pedro 4,0K abr 29 13:42 .
+drwxrwxr-x 4 pedro pedro 4,0K abr 29 13:42 ..
+-rwxrwxr-x 1 pedro pedro  263 abr 28 20:54 atividade-02.sh
+-rw-rw-r-- 1 pedro pedro    0 abr 29 13:42 log1.txt
+-rw-rw-r-- 1 pedro pedro    0 abr 29 13:42 log2.txt
