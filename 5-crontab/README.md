@@ -6,4 +6,4 @@
 
 	crontab -e
 	
-	*/10 * * * * <full-path>/crontab.sh
+	*/10 * * * * \<full-path\>/crontab.sh
